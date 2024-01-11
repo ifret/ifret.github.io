@@ -18,7 +18,7 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8#
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-数字付费#genre#,#genre#
+数字付费#genre#
 CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -324,7 +324,7 @@ Bestv赛事7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
 
-问      天 ,#genre#
+问      天_111 ,#genre#
 问天1,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/afecdb096e6140468108cd85a4471705_2000_h264_1872_aac_128.mp4
 问天2,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/dd03df4f7ab5457489fca8d2f6245100_2000_h264_1872_aac_128.mp4
 问天3,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/5fcc6454d9904e4e98944d440490abed_2000_h264_1872_aac_128.mp4
