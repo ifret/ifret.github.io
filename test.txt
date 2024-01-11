@@ -290,7 +290,7 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/in
 Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 Bestv赛事7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
 
-历年春晚_111,#genre#
+历年春晚,#genre#
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -324,43 +324,6 @@ Bestv赛事7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
 
-问      天_111 ,#genre#
-问天1,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/afecdb096e6140468108cd85a4471705_2000_h264_1872_aac_128.mp4
-问天2,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/dd03df4f7ab5457489fca8d2f6245100_2000_h264_1872_aac_128.mp4
-问天3,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/5fcc6454d9904e4e98944d440490abed_2000_h264_1872_aac_128.mp4
-问天4,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/46279f82c71e451fbc7eb8ad99896b60_2000_h264_1872_aac_128.mp4
-问天5,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/8682c09328004be188ea097b2811a2fc_2000_h264_1872_aac_128.mp4
-问天6,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/233e826fb5bd48e1a86ca16da7ec621e_2000_h264_1872_aac_128.mp4
-问天7,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/56e8266797944231a4fa71e1177df357_2000_h264_1872_aac_128.mp4
-问天8,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/22/5d4dc6ab570b457388e20ec9a211ac5f_2000_h264_1872_aac_128.mp4
-问天9,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/7f0e741b6200430db628f3def2b01b4c_2000_h264_1872_aac_128.mp4
-问天10,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/fad5e69292434f7c8b4b99789aedfc83_2000_h264_1872_aac_128.mp4
-问天11,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/927b97bf025c4ab8a2cc3229b107f275_2000_h264_1872_aac_128.mp4
-问天12,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/217a2dbb54d04ba88bd4681593c857c3_2000_h264_1872_aac_128.mp4
-问天13,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/1591ac3d13a941e7b060c7715b09dba4_2000_h264_1872_aac_128.mp4
-问天14,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/09/23/1b1dc1993ac442f781cb757606af5ad1_2000_h264_1872_aac_128.mp4
-问天15,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/10/bc0b5932ba3d492ab88d8fc4793949aa_2000_h264_1872_aac_128.mp4
-问天16,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/10/e2d0934dfdf6426fb92ec69b66814e4e_2000_h264_1872_aac_128.mp4
-问天17,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/11/10f619591299483b88eb8ed0d0ed5637_2000_h264_1872_aac_128.mp4
-问天18,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/11/1a3415415c4d4f84ab3ee735c969f38e_2000_h264_1872_aac_128.mp4
-问天19,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/12/3c351c92c292450fa70c696583b7c917_2000_h264_1872_aac_128.mp4
-问天20,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/12/cda04b7ac8304058a291d3710015d6f4_2000_h264_1872_aac_128.mp4
-问天21,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/13/3ecba10c591b4482bc1dd0d90ffbd301_2000_h264_1872_aac_128.mp4
-问天22,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/13/62e0031935c640eabac9e04b7137822e_2000_h264_1872_aac_128.mp4
-问天23,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/14/d786d2a4faab41179cc6321a10fd24c7_2000_h264_1872_aac_128.mp4
-问天24,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/14/27f8b069396546208a28ddcf82d26045_2000_h264_1872_aac_128.mp4
-问天25,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/15/aa2f70affcdb4f188231c917a572b9de_2000_h264_1872_aac_128.mp4
-问天26,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/15/c63ff78a83b54377b0e929e99007915a_2000_h264_1872_aac_128.mp4
-问天27,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/16/9af559e8c1344765ab16fd292c8e2fc6_2000_h264_1872_aac_128.mp4
-问天28,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/16/5b368c1d163e4185958240ee09ebe40c_2000_h264_1872_aac_128.mp4
-问天29,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/17/9b53f867a91a4ecda5e687a13e156086_2000_h264_1872_aac_128.mp4
-问天30,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/17/b958277eac9f431e8a6ad103bdefcf4e_2000_h264_1872_aac_128.mp4
-问天31,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/18/8af67f183edf40dab222433ae344e025_2000_h264_1872_aac_128.mp4
-问天32,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/18/779cc561311c46feaa79b93e8a1db754_2000_h264_1872_aac_128.mp4
-问天33,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/19/147e96e4266a4d7b8005949631e7ca26_2000_h264_1872_aac_128.mp4
-问天34,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/19/86ba2aa1289241da94092fd1dd776ae7_2000_h264_1872_aac_128.mp4
-问天35,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/20/4100584ba1c74990a7a4af1f271dc115_2000_h264_1872_aac_128.mp4
-问天36,https://vod.cntv.myhwcdn.cn/flash/mp4video63/TMS/2023/10/20/a97467d1caa549bf90e38973371ff43b_2000_h264_1872_aac_128.mp4
 
 狂       飙 ,#genre#
 狂飙01,https://p3-sign.douyinpic.com/obj/tos-cn-v-f17943/1004104b1cb44ebb86d41d36cded7134?filename=1.mp4&x-expires=1990965600&x-signature=rkNwnTHL%2FWG5t5y0NHV4u0MbsJI%3D
